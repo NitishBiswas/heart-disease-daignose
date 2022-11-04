@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+#name .form-contrrol::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: red;
+  opacity: 1;
+  /* Firefox */
+}
+
+.form-control::-webkit-input-placeholder {
+  color: rgb(255, 0, 0);
+}
