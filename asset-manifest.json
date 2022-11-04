@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/heart-disease-diagnose/static/css/main.505eed43.css",
+    "main.js": "/heart-disease-diagnose/static/js/main.d0f3481d.js",
+    "static/js/787.f09a8992.chunk.js": "/heart-disease-diagnose/static/js/787.f09a8992.chunk.js",
+    "static/media/heart.jpg": "/heart-disease-diagnose/static/media/heart.1f663508848439bc4fae.jpg",
+    "index.html": "/heart-disease-diagnose/index.html",
+    "main.505eed43.css.map": "/heart-disease-diagnose/static/css/main.505eed43.css.map",
+    "main.d0f3481d.js.map": "/heart-disease-diagnose/static/js/main.d0f3481d.js.map",
+    "787.f09a8992.chunk.js.map": "/heart-disease-diagnose/static/js/787.f09a8992.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.505eed43.css",
+    "static/js/main.d0f3481d.js"
+  ]
+}
